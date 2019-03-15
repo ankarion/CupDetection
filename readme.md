@@ -1,7 +1,9 @@
 # Installation
 Things you need to have before you start:
-* blender
+* Blender
 * OpenCV
+* python 3+ (haven't checked 2.7+)
+* about 10 hours of life
 
 # Generating your own haar cascade
 ## download "bad" images
